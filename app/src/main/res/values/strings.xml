@@ -6,6 +6,7 @@
 
     <string name="action_settings">Settings</string>
     <!-- color translation  -->
+    <string name="snake_color_undefined">Select Color</string>
     <string name="snake_color_brown_red">Brown-Red</string>
     <string name="snake_color_black">Black</string>
 </resources>

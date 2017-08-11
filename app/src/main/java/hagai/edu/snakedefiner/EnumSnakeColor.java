@@ -7,6 +7,7 @@ import android.content.Context;
  */
 
 public enum EnumSnakeColor {
+    snakeColorUndefined (R.string.snake_color_undefined),
     snakeColorBrownRed(R.string.snake_color_brown_red),
     snakeColorBlack(R.string.snake_color_black);
 
