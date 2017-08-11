@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SnakeDefiner</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- color translation  -->
+    <string name="snake_color_brown_red">Brown-Red</string>
+    <string name="snake_color_black">Black</string>
+</resources>

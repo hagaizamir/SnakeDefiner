@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- color translation  -->
+    <string name="snake_color_brown_red">חום אדמדם</string>
+    <string name="snake_color_black">שחור</string>
+</resources>
