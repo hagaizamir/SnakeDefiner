@@ -28,4 +28,11 @@
     <string name="snake_location_golan_hights">Golan Hights</string>
     <string name="snake_location_coast_line">Coast Line</string>
 
+    <!-- Size translation  -->
+    <string name="snake_size_undefined">Select Size</string>
+    <string name="snake_size_small">Small</string>
+    <string name="snake_size_medium">Medium</string>
+    <string name="snake_size_large">Large</string>
+    <string name="snake_size_extra_large">Extra Large</string>
+
 </resources>
