@@ -12,4 +12,20 @@
     <string name="snake_color_darkbrown">חום כהה</string>
     <string name="snake_color_pink">ורוד</string>
     <string name="snake_color_bluish">כחלכל</string>
+
+    <!-- Location translation  -->
+    <string name="snake_location_undefined">בחר מיקום</string>
+    <string name="snake_location_negev_arava">נגב / ערבה</string>
+    <string name="snake_location_juda_deserd">מדבר יהודה</string>
+    <string name="snake_location_juda_samaria">יהודה ושומרון</string>
+    <string name="snake_location_galil">גליל</string>
+    <string name="snake_location_golan_hights">רמת הגולן</string>
+    <string name="snake_location_coast_line">מישור החוף</string>
+
+    <!-- Size translation  -->
+    <string name="snake_size_undefined">בחר גודל</string>
+    <string name="snake_size_small">קטן</string>
+    <string name="snake_size_medium">מדיום</string>
+    <string name="snake_size_large">גדול</string>
+    <string name="snake_size_extra_large">גדול מאוד</string>
 </resources>

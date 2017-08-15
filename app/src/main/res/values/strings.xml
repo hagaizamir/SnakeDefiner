@@ -23,8 +23,8 @@
     <string name="snake_location_undefined">Select Location</string>
     <string name="snake_location_negev_arava">Negev / Arava</string>
     <string name="snake_location_juda_deserd">Juda Deserd</string>
-    <string name="snake_location_juda_samaria">Juda & Samaria</string>
-    <string name="snake_location_galil">Galia</string>
+    <string name="snake_location_juda_samaria">Juda and Samaria</string>
+    <string name="snake_location_galil">Galil</string>
     <string name="snake_location_golan_hights">Golan Hights</string>
     <string name="snake_location_coast_line">Coast Line</string>
 
