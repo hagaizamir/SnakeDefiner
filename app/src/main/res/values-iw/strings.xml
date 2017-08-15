@@ -2,6 +2,14 @@
 <resources>
     <!-- color translation  -->
     <string name="snake_color_undefined">בחר צבע</string>
-    <string name="snake_color_brown_red">חום אדמדם</string>
+    <string name="snake_color_orange_red">אדום כתום</string>
+    <string name="snake_color_lightbrown">חום בהיר</string>
     <string name="snake_color_black">שחור</string>
+    <string name="snake_color_white">לבן</string>
+    <string name="snake_color_yellow">צהוב</string>
+    <string name="snake_color_green">ירוק</string>
+    <string name="snake_color_gray">אפור</string>
+    <string name="snake_color_darkbrown">חום כהה</string>
+    <string name="snake_color_pink">ורוד</string>
+    <string name="snake_color_bluish">כחלכל</string>
 </resources>

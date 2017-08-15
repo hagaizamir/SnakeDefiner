@@ -7,6 +7,14 @@
     <string name="action_settings">Settings</string>
     <!-- color translation  -->
     <string name="snake_color_undefined">Select Color</string>
-    <string name="snake_color_brown_red">Brown-Red</string>
+    <string name="snake_color_orange_red">Orange-Red</string>
+    <string name="snake_color_lightbrown">Light Brwon</string>
     <string name="snake_color_black">Black</string>
+    <string name="snake_color_white">White</string>
+    <string name="snake_color_yellow">Yellow</string>
+    <string name="snake_color_green">Green</string>
+    <string name="snake_color_gray">Gray</string>
+    <string name="snake_color_darkbrown">Dark brown</string>
+    <string name="snake_color_pink">Pink</string>
+    <string name="snake_color_bluish">Bluish</string>
 </resources>
