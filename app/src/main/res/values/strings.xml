@@ -8,7 +8,8 @@
     <!-- color translation  -->
     <string name="snake_color_undefined">Select Color</string>
     <string name="snake_color_orange_red">Orange-Red</string>
-    <string name="snake_color_lightbrown">Light Brwon</string>
+    <string name="snake_color_lightbrown">Light Brw
+        on</string>
     <string name="snake_color_black">Black</string>
     <string name="snake_color_white">White</string>
     <string name="snake_color_yellow">Yellow</string>
@@ -17,4 +18,14 @@
     <string name="snake_color_darkbrown">Dark brown</string>
     <string name="snake_color_pink">Pink</string>
     <string name="snake_color_bluish">Bluish</string>
+
+    <!-- Location translation  -->
+    <string name="snake_location_undefined">Select Location</string>
+    <string name="snake_location_negev_arava">Negev / Arava</string>
+    <string name="snake_location_juda_deserd">Juda Deserd</string>
+    <string name="snake_location_juda_samaria">Juda & Samaria</string>
+    <string name="snake_location_galil">Galia</string>
+    <string name="snake_location_golan_hights">Golan Hights</string>
+    <string name="snake_location_coast_line">Coast Line</string>
+
 </resources>
